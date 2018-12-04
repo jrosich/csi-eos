@@ -1,5 +1,4 @@
-<img src="https://imgur.com/a/SbAe3vo">
-
+<img src="https://i.imgur.com/vrWtTqD.jpg" />
 # Crime Scene Investigation ("CSI" or "CSI")
 
 ## Mission Statement
