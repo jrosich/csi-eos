@@ -3,7 +3,7 @@
 
 ## Mission Statement
 
- * To uphold the EOS Telos Blockchain Network Operating Agreement
+ * To uphold the Telos Blockchain Network Operating Agreement
  * To serve and protect the TELOS Community and its Members
  
 ## Executive Summary
